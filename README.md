@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science at the Govt Degree College No.1 D.I.Khan.\
+🎓 &nbsp;Graduated from Govt Degree College No.1 D.I.Khan with Computer Science as major.\
 💬 &nbsp;Feel free to reach out to me for any advice or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at nemoxhan@gmail.com! I'll try to respond as soon as I can.\
 
